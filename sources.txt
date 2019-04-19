@@ -1,0 +1,14 @@
+https://stackoverflow.com/questions/27900451/convert-tweepy-status-object-into-json
+https://tweepy.readthedocs.io/en/3.7.0/api.html#id10
+https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+https://stackoverflow.com/questions/899103/writing-a-list-to-a-file-with-python
+https://knowledge.udacity.com/questions/37595
+https://stackoverflow.com/questions/10159502/looping-over-lines-with-python
+https://stackoverflow.com/questions/4528099/convert-string-to-json-using-python
+https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-object.html
+https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk
+https://stackoverflow.com/questions/17950374/converting-a-column-within-pandas-dataframe-from-int-to-string
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.str.findall.html
+https://stackoverflow.com/questions/37790429/seaborn-heatmap-using-pandas-dataframe
+http://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html
+https://seaborn.pydata.org/examples/heatmap_annotation.html
